@@ -1,2 +1,3 @@
+baseurl: /gh-doc
 markdown: rdiscount
 pygments: true
