@@ -1,4 +1,3 @@
 baseurl: /gh-doc
 markdown: rdiscount
 pygments: true
-permalink: YYYY-MM-DD
