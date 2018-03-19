@@ -1,6 +1,7 @@
 
-h1. The "Doc URL":http://Kolafim.github.com/gh-doc
+h1. The "Doc URL":http://Kolafim.github.io/gh-doc
 
 * _posts/
 * images/
 
+"_config.yml配置参数":https://www.jekyll.com.cn/docs/configuration/
